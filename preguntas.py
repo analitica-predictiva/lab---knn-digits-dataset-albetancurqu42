@@ -70,7 +70,6 @@ def pregunta_03():
 
     # Importe KNeighborsClassifier de sklearn.neighbors
     from sklearn.neighbors import KNeighborsClassifier
-
     # Importe train_test_split de sklearn.model_selection
     from sklearn.model_selection import train_test_split
 
